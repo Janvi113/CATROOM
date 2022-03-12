@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/background.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/backround.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/btnsape.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/btnspe.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/catlayout.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/recievelayout.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/recylerbackround.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/drawable/srtrokebackground.xml" value="0.248" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/activity_chat_screen.xml" value="0.2" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/activity_home_screeb.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/activity_login_screen.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/activity_signup_screen.xml" value="0.20852641334569044" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/activity_splash_screen.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/chatitems.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/recieve.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/CATROOM/app/src/main/res/layout/sent.xml" value="0.24635416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

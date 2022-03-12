@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713282899810",
+    "project_id": "catroom-260f9",
+    "storage_bucket": "catroom-260f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713282899810:android:c8644949204862056fa63b",
+        "android_client_info": {
+          "package_name": "com.example.catroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713282899810-5p1pvkm0gnt86fk1l9saphj2opqpo527.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catroom",
+            "certificate_hash": "75a2be436d615791da924d62d1327f36755cc816"
+          }
+        },
+        {
+          "client_id": "713282899810-kcjqb3pgu1t3hf9b09pudifodcova164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClHJcXtoH207mmEe5LQ5w41cLH2_0jLqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713282899810-kcjqb3pgu1t3hf9b09pudifodcova164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
